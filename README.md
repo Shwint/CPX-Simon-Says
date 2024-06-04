@@ -7,7 +7,7 @@ RULES: Match the pattern of Neopixels shown with user inputs that match the patt
 INPUTS: 
 Buttons - Either activated or inactive with an imput of either 0 or 1 when pressed.
 The Left button controls when the round is initilized and is what the user presses to give input primarily in the game.
-The Right button controls when the pattern is displayed on the Neopixels
+The Right button controls when the pattern is displayed on the Neopixels.
 
 SlideSwitch - Controls if the game is in an idle state or not, when the switch is facing left and inactive the game functions as normal. When the slideswitch is facing right it ends the current round and plays the score and deactivates the game until switched back.
 

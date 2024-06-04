@@ -1,1 +1,1 @@
-# Game1
+# LightPattern Matching Game

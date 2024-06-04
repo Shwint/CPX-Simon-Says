@@ -1,4 +1,4 @@
-# Light-Pattern Matching Game
+# CPX Simon-Says Game
 DESCRIPTION: The game is basically simon-says with the lights of the LED’s representing the correct response. The game works by starting with a single press of the left button which activates the game and puts it in an idle mode. After this press the right button to begin where a single Neopixel will blink red and you use the left button to match the input by pressing it a corresponding amount of times. After a correct input the pattern repeats with one more additional point to input after the original. This goes on until the user fails to correctly input the code and the device will beep a corresponding number of times to the amount of successful inputs. 
 After the game registers the game being ended the buzzer will sound in corresponding intervals to how many rounds were successfully completed.
 
